@@ -12,10 +12,9 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 - [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
 
 ## Configuração
-
+```bash
 1. Clone o repositório:
 
-```bash
 git clone https://github.com/seu-usuario/nome-do-projeto.git
 cd nome-do-projeto
 Instale as dependências:
