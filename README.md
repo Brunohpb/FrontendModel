@@ -32,5 +32,5 @@ Para construir o aplicativo para produção, utilize o seguinte comando:
 npm run build
 Isso criará uma pasta dist com os arquivos otimizados para produção.
 
-Autenticação com o App da Microsoft dentro da pasta do context
+Autenticação com o App da Microsoft dentro da pasta src/context
 Certifique-se de configurar corretamente as credenciais do seu aplicativo no Portal Azure
