@@ -9,7 +9,7 @@ Uma aplicação React + Vite com autenticação utilizando o app da Microsoft.
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
 
 - [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/) 
 
 ## Configuração
 ```bash
