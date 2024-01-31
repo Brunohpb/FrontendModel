@@ -1,0 +1,33 @@
+.app-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    padding: 10px;
+    z-index: 999; /* Para garantir que o cabeçalho fique sobre o conteúdo */
+  }
+  
+  .logo {
+    margin-left: 20px; /* Espaço à esquerda para o logotipo */
+    width: 50px; /* Largura do logotipo (ajuste conforme necessário) */
+    height: 70px; /* Altura do logotipo (ajuste conforme necessário) */
+  }
+  
+  .enter-button {
+    margin-right: 20px; /* Espaço à direita para o botão "Entrar" */
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .enter-button:hover {
+    background-color: #828283;
+  }
+  
